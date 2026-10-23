@@ -46,7 +46,7 @@ const featureList = document.querySelector('#feature-list');
 if (featureList) featureList.innerHTML = features.map(([icon,color,title,description]) => `<article class="feature" style="--icon-color:${color}">${pixelIcon(icon)}<h2>${title}</h2><p>${description}</p></article>`).join('');
 
 const grid = document.querySelector('#screenshot-grid');
-if (grid) grid.innerHTML = Array.from({length: 8}, (_, i) => `<figure class="screenshot-card"><video class="screenshot-video" src="images/screenshots/${i+1}.mp4" width="300" height="400" autoplay muted loop playsinline controls preload="metadata" aria-label="Ladder Maze gameplay video ${i+1}"></video></figure>`).join('');
+if (grid) grid.innerHTML = Array.from({length: 8}, (_, i) => `<figure class="screenshot-card"><video class="screenshot-video" data-lazy-video width="300" height="400" autoplay muted loop playsinline controls preload="none" aria-label="Ladder Maze gameplay video ${i+1}"><source data-src="images/screenshots/${i+1}.webm" type="video/webm"><source data-src="images/screenshots/${i+1}.mp4" type="video/mp4"></video></figure>`).join('');
 
 document.querySelector('#dialogs').innerHTML = `
   <dialog class="download-dialog" id="download-dialog" aria-labelledby="download-title" aria-describedby="download-description">

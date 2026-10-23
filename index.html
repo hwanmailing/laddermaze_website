@@ -4,19 +4,106 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#001222">
-  <meta name="description" content="Enter Ladder Maze. Read the clues, master your weapons, dodge traps, and outsmart your enemies in a mysterious pixel-art dungeon.">
-  <title>Ladder Maze — Logic &amp; Traps</title>
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <title>Ladder Maze — Puzzle Action Game for iOS &amp; Android</title>
+  <meta name="description" content="Explore random mazes, read trap clues, and battle enemies in Ladder Maze. Conquer 30 maze stages and 6 bosses. Available for iOS and Android.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Ladder Maze">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="Ladder Maze — Puzzle Action Game for iOS &amp; Android">
+  <meta property="og:description" content="Explore random mazes, read trap clues, and battle enemies in Ladder Maze. Conquer 30 maze stages and 6 bosses. Available for iOS and Android.">
+  <meta property="og:url" content="https://laddermaze.com/">
+  <meta property="og:image" content="https://laddermaze.com/main.jpg">
+  <meta property="og:image:secure_url" content="https://laddermaze.com/main.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1672">
+  <meta property="og:image:height" content="941">
+  <meta property="og:image:alt" content="Ladder Maze — puzzle action adventure by Arcade Game Lab">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Ladder Maze — Puzzle Action Game for iOS &amp; Android">
+  <meta name="twitter:description" content="Explore random mazes, read trap clues, and battle enemies in Ladder Maze. Conquer 30 maze stages and 6 bosses. Available for iOS and Android.">
+  <meta name="twitter:image" content="https://laddermaze.com/main.jpg">
+  <meta name="twitter:image:alt" content="Ladder Maze — puzzle action adventure by Arcade Game Lab">
+  <link rel="canonical" href="https://laddermaze.com/">
+  <link rel="icon" type="image/webp" sizes="96x96" href="/favicon.webp">
   <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://laddermaze.com/#studio",
+      "name": "Arcade Game Lab",
+      "url": "https://laddermaze.com/about.html"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://laddermaze.com/#website",
+      "url": "https://laddermaze.com/",
+      "name": "Ladder Maze",
+      "publisher": {
+        "@id": "https://laddermaze.com/#studio"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://laddermaze.com/#webpage",
+      "url": "https://laddermaze.com/",
+      "name": "Ladder Maze — Puzzle Action Game for iOS & Android",
+      "description": "Explore random mazes, read trap clues, and battle enemies in Ladder Maze. Conquer 30 maze stages and 6 bosses. Available for iOS and Android.",
+      "isPartOf": {
+        "@id": "https://laddermaze.com/#website"
+      },
+      "inLanguage": "en",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://laddermaze.com/main.avif",
+        "width": 1672,
+        "height": 941
+      },
+      "mainEntity": {
+        "@id": "https://laddermaze.com/#game"
+      }
+    },
+    {
+      "@type": "VideoGame",
+      "@id": "https://laddermaze.com/#game",
+      "name": "Ladder Maze",
+      "url": "https://laddermaze.com/",
+      "description": "Explore random mazes, read trap clues, and battle enemies in Ladder Maze. Conquer 30 maze stages and 6 bosses. Available for iOS and Android.",
+      "image": "https://laddermaze.com/main.avif",
+      "genre": [
+        "Puzzle",
+        "Action",
+        "Arcade"
+      ],
+      "gamePlatform": [
+        "iOS",
+        "Android"
+      ],
+      "publisher": {
+        "@id": "https://laddermaze.com/#studio"
+      },
+      "sameAs": [
+        "https://apps.apple.com/app/id6756280204",
+        "https://play.google.com/store/apps/details?id=com.arcadegamelab.laddermaze"
+      ]
+    }
+  ]
+}
+  </script>
   <script src="config.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="media.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header" id="header"></header>
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
-      <img class="hero-art" src="images/main_top_banner.webp" alt="Ladder Maze: a lantern-carrying adventurer exploring a dungeon with ladders, skeletons, and hidden doors" width="2109" height="746" fetchpriority="high">
+      <picture><source srcset="images/main_top_banner.avif" type="image/avif"><img class="hero-art" src="images/main_top_banner.webp" alt="Ladder Maze: a lantern-carrying adventurer exploring a dungeon with ladders, skeletons, and hidden doors" width="2109" height="746" fetchpriority="high"></picture>
       <div class="hero-logo" aria-hidden="true"></div>
       <div class="hero-inner">
         <div class="hero-copy">
@@ -35,7 +122,7 @@
       <div class="screenshot-grid" id="screenshot-grid"></div>
     </section>
     <section class="bottom-banner" aria-label="Play Ladder Maze — Logic and Traps">
-      <img src="images/main_bottom_banner.webp" alt="Ladder Maze — Logic & Traps. Think, explore, survive!" width="2109" height="746" loading="lazy">
+      <picture><source srcset="images/main_bottom_banner.avif" type="image/avif"><img src="images/main_bottom_banner.webp" alt="Ladder Maze — Logic & Traps. Think, explore, survive!" width="2109" height="746" loading="lazy"></picture>
       <button type="button" class="banner-play" data-play aria-label="Play Now — choose your app store"><span class="sr-only">Play Now</span></button>
     </section>
   </main>
