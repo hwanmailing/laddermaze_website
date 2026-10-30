@@ -1,0 +1,39 @@
+/* Preserve the supplied artwork and layout; allow translated copy to wrap. */
+html:not([lang="en"]) .site-header{height:auto;min-height:82px}
+html:not([lang="en"]) .header-inner{min-height:82px;flex-wrap:wrap;padding-block:10px}
+html:not([lang="en"]) .brand{flex-shrink:1;min-width:0}
+html:not([lang="en"]) .brand-icon{flex-shrink:0}
+html:not([lang="en"]) .nav{gap:clamp(12px,3vw,40px);flex-wrap:wrap}
+html:not([lang="en"]) .feature h2,html:not([lang="en"]) .about-journey-copy h2,html:not([lang="en"]) .footer-nav{white-space:normal}
+html:not([lang="en"]) h1,html:not([lang="en"]) h2,html:not([lang="en"]) h3{overflow-wrap:anywhere}
+html:not([lang="en"]) .play-button{white-space:normal;text-align:center}
+html:not([lang="en"]) .about-hero h1,html:not([lang="en"]) .game-features-hero h1{font-size:clamp(36px,7vw,80px);line-height:1.2}
+html:lang(ar),html:lang(he),html:lang(hi),html:lang(th),html:lang(ko),html:lang(ja),html:lang(zh){--pixel:Arial,Helvetica,sans-serif}
+html[dir="rtl"] .hero-inner{direction:ltr}
+html[dir="rtl"] .hero-copy{direction:rtl;text-align:right}
+html[dir="rtl"] .game-feature-copy li{padding-left:0;padding-right:20px}
+html[dir="rtl"] .game-feature-copy li:before{left:auto;right:0}
+html[dir="rtl"] .faq-answer{padding-left:15px;padding-right:39px}
+html[dir="rtl"] .chevron{transform:rotate(225deg)}
+html[dir="rtl"] .footer-copyright{margin-left:0;margin-right:232px}
+html[dir="rtl"] .store-badge{direction:ltr}
+.language-links{margin-top:18px;color:#c4daed;font-size:13px;text-align:center}
+.language-links summary{cursor:pointer;padding:8px}
+.language-links nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 16px;padding:12px}
+.language-links a{padding:4px;color:#8ddfff}
+.language-links [aria-current]{color:#ffdc26}
+@media(max-width:650px){
+ html:not([lang="en"]) .header-inner{grid-template-columns:minmax(0,1fr) auto}
+ html:not([lang="en"]) .header-inner>.play-button{max-width:140px;padding-inline:12px}
+ html[dir="rtl"] .hero-copy{text-align:center}
+ html[dir="rtl"] .footer-copyright{margin-right:0}
+}
+/* Artwork and its transparent click target share the original left-to-right geometry. */
+html[dir="rtl"] .bottom-banner{direction:ltr}
+html:lang(ko) body{word-break:keep-all;overflow-wrap:break-word}
+
+/* The header wordmark always keeps its original English text and pixel font. */
+.brand-name{font-family:Pixel,'Arial Black',Impact,sans-serif}
+
+/* Keep the footer studio wordmark in its original English pixel font. */
+.site-footer .footer-brand-name{font-family:Pixel,'Arial Black',Impact,sans-serif}
