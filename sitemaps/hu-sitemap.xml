@@ -1,46 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://laddermaze.com/hu/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/index.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/index.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/index.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://laddermaze.com/zh-Hant/index.html" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://laddermaze.com/hr/index.html" />
-    <xhtml:link rel="alternate" hreflang="cs" href="https://laddermaze.com/cs/index.html" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://laddermaze.com/da/index.html" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://laddermaze.com/nl/index.html" />
-    <xhtml:link rel="alternate" hreflang="fi" href="https://laddermaze.com/fi/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://laddermaze.com/fr/index.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://laddermaze.com/de/index.html" />
-    <xhtml:link rel="alternate" hreflang="el" href="https://laddermaze.com/el/index.html" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://laddermaze.com/he/index.html" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://laddermaze.com/hu/index.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://laddermaze.com/id/index.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://laddermaze.com/it/index.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://laddermaze.com/ja/index.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://laddermaze.com/ko/index.html" />
-    <xhtml:link rel="alternate" hreflang="ms" href="https://laddermaze.com/ms/index.html" />
-    <xhtml:link rel="alternate" hreflang="nb" href="https://laddermaze.com/nb/index.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://laddermaze.com/pl/index.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://laddermaze.com/pt-BR/index.html" />
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://laddermaze.com/pt-PT/index.html" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://laddermaze.com/ro/index.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://laddermaze.com/ru/index.html" />
-    <xhtml:link rel="alternate" hreflang="sk" href="https://laddermaze.com/sk/index.html" />
-    <xhtml:link rel="alternate" hreflang="sl" href="https://laddermaze.com/sl/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://laddermaze.com/es/index.html" />
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://laddermaze.com/es-MX/index.html" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://laddermaze.com/sv/index.html" />
-    <xhtml:link rel="alternate" hreflang="th" href="https://laddermaze.com/th/index.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://laddermaze.com/tr/index.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://laddermaze.com/uk/index.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://laddermaze.com/vi/index.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://laddermaze.com/hi/index.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://laddermaze.com/index.html" />
+    <loc>https://laddermaze.com/hu/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://laddermaze.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://laddermaze.com/hr/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://laddermaze.com/cs/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://laddermaze.com/da/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://laddermaze.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://laddermaze.com/fi/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://laddermaze.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://laddermaze.com/de/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://laddermaze.com/el/" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://laddermaze.com/he/" />
+    <xhtml:link rel="alternate" hreflang="hu" href="https://laddermaze.com/hu/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://laddermaze.com/id/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://laddermaze.com/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://laddermaze.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://laddermaze.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://laddermaze.com/ms/" />
+    <xhtml:link rel="alternate" hreflang="nb" href="https://laddermaze.com/nb/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://laddermaze.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://laddermaze.com/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://laddermaze.com/pt-PT/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://laddermaze.com/ro/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://laddermaze.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://laddermaze.com/sk/" />
+    <xhtml:link rel="alternate" hreflang="sl" href="https://laddermaze.com/sl/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://laddermaze.com/es/" />
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://laddermaze.com/es-MX/" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://laddermaze.com/sv/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://laddermaze.com/th/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://laddermaze.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://laddermaze.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://laddermaze.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://laddermaze.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://laddermaze.com/" />
   </url>
   <url>
     <loc>https://laddermaze.com/hu/about.html</loc>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/about.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/about.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/about.html" />
@@ -80,6 +82,7 @@
   </url>
   <url>
     <loc>https://laddermaze.com/hu/features.html</loc>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/features.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/features.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/features.html" />
@@ -119,6 +122,7 @@
   </url>
   <url>
     <loc>https://laddermaze.com/hu/support.html</loc>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/support.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/support.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/support.html" />
@@ -158,6 +162,7 @@
   </url>
   <url>
     <loc>https://laddermaze.com/hu/privacy-policy.html</loc>
+    <lastmod>2026-10-30</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://laddermaze.com/privacy-policy.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://laddermaze.com/ar/privacy-policy.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://laddermaze.com/zh-Hans/privacy-policy.html" />
